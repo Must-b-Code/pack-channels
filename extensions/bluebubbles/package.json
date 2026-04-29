@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-channels-ext-bluebubbles",
+  "version": "1.0.0",
+  "description": "Must-b BlueBubbles channel plugin",
+  "main": "index.cjs",
+  "private": true
+}

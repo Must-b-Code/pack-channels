@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-channels-ext-signal",
+  "version": "1.0.0",
+  "description": "Must-b Signal channel plugin",
+  "main": "index.cjs",
+  "private": true
+}

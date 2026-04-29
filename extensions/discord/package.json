@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-channels-ext-discord",
+  "version": "1.0.0",
+  "description": "Must-b Discord channel plugin",
+  "main": "index.cjs",
+  "private": true
+}

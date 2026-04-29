@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-channels-ext-tlon",
+  "version": "1.0.0",
+  "description": "Must-b Tlon/Urbit channel plugin",
+  "main": "index.cjs",
+  "private": true
+}

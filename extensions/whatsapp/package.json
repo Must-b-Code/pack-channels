@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-channels-ext-whatsapp",
+  "version": "1.0.0",
+  "description": "Must-b WhatsApp channel plugin",
+  "main": "index.cjs",
+  "private": true
+}

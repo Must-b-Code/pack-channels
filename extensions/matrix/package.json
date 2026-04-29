@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-channels-ext-matrix",
+  "version": "1.0.0",
+  "description": "Must-b Matrix channel plugin",
+  "main": "index.cjs",
+  "private": true
+}

@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-channels-ext-synology-chat",
+  "version": "1.0.0",
+  "description": "Synology Chat channel plugin for Must-b",
+  "main": "index.cjs",
+  "private": true
+}

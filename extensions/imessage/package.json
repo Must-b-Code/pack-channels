@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-channels-ext-imessage",
+  "version": "1.0.0",
+  "description": "Must-b iMessage channel plugin",
+  "main": "index.cjs",
+  "private": true
+}

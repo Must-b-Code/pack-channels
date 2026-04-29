@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-channels-ext-zalouser",
+  "version": "1.0.0",
+  "description": "Must-b Zalo Personal Account plugin via native zca-js integration",
+  "main": "index.cjs",
+  "private": true
+}

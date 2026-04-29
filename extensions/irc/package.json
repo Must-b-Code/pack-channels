@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-channels-ext-irc",
+  "version": "1.0.0",
+  "description": "Must-b IRC channel plugin",
+  "main": "index.cjs",
+  "private": true
+}

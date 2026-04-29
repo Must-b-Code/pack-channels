@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-channels-ext-mattermost",
+  "version": "1.0.0",
+  "description": "Must-b Mattermost channel plugin",
+  "main": "index.cjs",
+  "private": true
+}

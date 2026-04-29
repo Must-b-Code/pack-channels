@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-channels-ext-nostr",
+  "version": "1.0.0",
+  "description": "Must-b Nostr channel plugin for NIP-04 encrypted DMs",
+  "main": "index.cjs",
+  "private": true
+}

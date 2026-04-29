@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-channels-ext-slack",
+  "version": "1.0.0",
+  "description": "Must-b Slack channel plugin",
+  "main": "index.cjs",
+  "private": true
+}

@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-channels-ext-twitch",
+  "version": "1.0.0",
+  "description": "Must-b Twitch channel plugin",
+  "main": "index.cjs",
+  "private": true
+}

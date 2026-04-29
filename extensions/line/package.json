@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-channels-ext-line",
+  "version": "1.0.0",
+  "description": "Must-b LINE channel plugin",
+  "main": "index.cjs",
+  "private": true
+}

@@ -1,0 +1,7 @@
+{
+  "name": "@must-b/pack-channels-ext-googlechat",
+  "version": "1.0.0",
+  "description": "Must-b Google Chat channel plugin",
+  "main": "index.cjs",
+  "private": true
+}
